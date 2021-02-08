@@ -20,7 +20,7 @@
 
 [[main]]
   name = ""
-  url = "#talks"
+  url = ""
   weight = 40
 
 [[main]]
@@ -30,7 +30,7 @@
 
 [[main]]
   name = ""
-  url = "#contact"
+  url = ""
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
