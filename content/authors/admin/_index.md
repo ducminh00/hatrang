@@ -6,7 +6,7 @@ title: Hà Trang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: haCHACHACHA
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,9 +17,13 @@ organizations:
 bio: Uhm I'm not good at writing so ...
 
 # Interests to show in About widget
+- Tiktok 
+- Don Chicken 
+- Red
 
-
-# Education to show in About widget
+# Education to show in About widget 
+- RMIT
+- FLSS (2015-2018)
 
 
 # Social/Academic Networking
