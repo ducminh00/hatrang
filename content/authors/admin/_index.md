@@ -14,7 +14,7 @@ organizations:
   url: https://www.rmit.edu.vn/vi
 
 # Short bio (displayed in user profile at end of posts)
-bio: Uhm I'm not good at writing so ...
+bio:
 
 # Interests to show in About widget
 - Tiktok 
