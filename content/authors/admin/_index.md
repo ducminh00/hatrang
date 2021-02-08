@@ -17,13 +17,9 @@ organizations:
 bio:
 
 # Interests to show in About widget
-- Tiktok 
-- Don Chicken 
-- Red
+
 
 # Education to show in About widget 
-- RMIT
-- FLSS (2015-2018)
 
 
 # Social/Academic Networking
@@ -55,6 +51,10 @@ email: ""
 highlight_name: false
 ---
 
-I try to explain everything through the form of visuals. I am never good with words.
+I try to explain everything through the form of visuals. 
+
+I am never good with words.
+
 I am good with concepts, visuals and I love to express everything I have and everything that I am through every possible forms of art.
+
 Uhm I'm not good at writing so ...
