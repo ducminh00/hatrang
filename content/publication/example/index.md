@@ -26,7 +26,7 @@ publishDate: "2020-09-24T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: *School of Communication & Design - RMIT Vietnam*
+publication: In *School of Communication & Design - RMIT Vietnam*
 publication_short: 
 
 Summary: Growing up, I have always view the world as an intertwined place of unchaining realities. The human's minds are full of endless possibilities, especially children's. I have glanced through "Mua" when I was small, and for a long time, the poem has been a happy place for me to hide from stressful reality. Tran Dang khoa, as a child, had brought out the joyful, vivid side of an ordinary summer shower. I wanted to illustrate every nuance of Khoa's perspective, hoping the audience to experience a child's interpretation of the world as an escape from their busy, stressful lives
