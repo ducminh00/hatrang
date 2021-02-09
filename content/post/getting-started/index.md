@@ -30,6 +30,7 @@ image:
 
 authors:
 - admin
+
 tags:
 - Video
 
@@ -49,4 +50,4 @@ Và dần dà chẳng còn biết là mình học nghệ thuật là thật sự
 
 Nên mình học và tìm hiểu về nghệ thuật, chắc là vì mình muốn tìm hiểu mình nhất. Và mình vẫn chẳng hiểu gì về mình cả. Nên mình vẫn đang học hỏi thôi!
 
-Thế tại sao mọi người theo đuổi nghệ thuật? Hay theo đuổi bất kì con đường nào khác vậy?
+
