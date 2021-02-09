@@ -1,41 +1,24 @@
 ---
 title: VUI CÙNG NGHỆ THUẬT kiểu hachabutchikim
 subtitle: Xin chào xin chào 👋
-
-# Summary for listings and search engines
+date: 2021-09-02T00:00:00Z
 summary: Xin chào xin chào.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2021-09-02T00:00:00Z"
-
-# Date updated
-lastmod: "2021-09-02T00:00:00Z"
-
-# Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors:
+  - admin
+lastmod: 2021-09-02T00:00:00Z
+tags:
+  - Video
+categories:
+  - Posts
+projects: []
 image:
-  caption: 'by: [**Hachabutchikim**](https://hachabutchikim.netlify.app/)'
+  caption: "by: [**Hachabutchikim**](https://hachabutchikim.netlify.app/)"
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-
-tags:
-- Video
-
-categories:
-- Posts
+  filename: featured.jpg
 ---
 
 Mình có được các bạn bên @fragments.theatre hỏi về lý do tại sao mình làm nghệ thuật,
