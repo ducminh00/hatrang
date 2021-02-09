@@ -51,10 +51,16 @@ email: ""
 highlight_name: false
 ---
 
-I try to explain everything through the form of visuals. 
+Mình là Hacha bút-chì-kim. 
 
-I am never good with words.
+Mình sinh ra - lớn lên tại Hà Nội. 
 
-I am good with concepts, visuals and I love to express everything I have and everything that I am through every possible forms of art.
+Hiện giờ mình đang học tập - làm việc tại Sài Gòn.
 
-Uhm I'm not good at writing so ...
+Thú thực, mình không tự tin khi làm việc với ngôn từ, cho nên viết lách chưa bao giờ là sở trường của mình. 
+
+Mình tự tin hơn khi sử dụng hình ảnh, màu sắc để truyền tải cảm xúc và suy nghĩ của mình. 
+
+Rất mong mọi người sẽ ủng hộ mình!!! 
+
+{{< icon name="download" pack="fas" >}} Ngó nghiêng chút những gì mình đã làm {{< staticref "media/demo_resume.pdf" "newtab" >}}tại đây{{< /staticref >}}.
