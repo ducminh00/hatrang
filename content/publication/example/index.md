@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'By: [**Hachabutchikim**]('https://www.facebook.com/rmitvnscd/posts/1493575597508534/')'
+  caption: 'By: [**Hachabutchikim**](https://www.facebook.com/rmitvnscd/posts/1493575597508534/)'
   focal_point: ""
   preview_only: false
 
