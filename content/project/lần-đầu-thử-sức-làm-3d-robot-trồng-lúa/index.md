@@ -14,6 +14,12 @@ image:
   filename: 0001.jpg
   focal_point: Smart
   preview_only: false
+  
+links:
+- icon: instagram
+  icon_pack: fab
+  name: Check it on IG
+  url: https://www.instagram.com/p/B0n9mpUFqpj/
 ---
 <!--StartFragment-->
 
