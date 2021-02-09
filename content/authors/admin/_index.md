@@ -53,9 +53,9 @@ highlight_name: false
 
 Mình là Hacha bút-chì-kim. 
 
-Mình sinh ra - lớn lên tại Hà Nội. 
+Hà Nội là nơi mình sinh ra và lớn lên.
 
-Hiện giờ mình đang học tập - làm việc tại Sài Gòn.
+Hiện nay, mình đang học tập - làm việc tại Sài Gòn.
 
 Thú thực, mình không tự tin khi làm việc với ngôn từ, cho nên viết lách chưa bao giờ là sở trường của mình. 
 
