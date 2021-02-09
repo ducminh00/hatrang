@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 name: School of Communication & Design - RMIT Vietnam 
-url: https://www.facebook.com/rmitvnscd/posts/1493575597508534
+url: 'https://www.facebook.com/rmitvnscd/posts/1493575597508534'
 
 url_pdf: ''
 url_code: ''
