@@ -10,7 +10,6 @@ draft: false
 featured: false
 tags:
   - 3D
-external_link: https://www.instagram.com/p/B0n9mpUFqpj/?utm_source=ig_web_copy_link
 image:
   filename: 0001.jpg
   focal_point: Smart
