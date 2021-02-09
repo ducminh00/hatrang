@@ -41,7 +41,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# name: School of Communication & Design - RMIT Vietnam 
+name: School of Communication & Design - RMIT Vietnam 
 # url: 'https://www.facebook.com/rmitvnscd/posts/1493575597508534'
 
 url_pdf: ''
@@ -76,12 +76,5 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 
