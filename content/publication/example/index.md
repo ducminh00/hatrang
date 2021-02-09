@@ -48,7 +48,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://www.facebook.com/rmitvnscd/posts/1493575597508534'
+url_project: 'https://www.facebook.com/rmitvnscd/posts/1493575597508534/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'By: [**Hachabutchikim**](https://hachabutchikim.netlify.app/)'
+  caption: 'By: [**Hachabutchikim**](https://www.facebook.com/rmitvnscd/posts/1493575597508534/')'
   focal_point: ""
   preview_only: false
 
